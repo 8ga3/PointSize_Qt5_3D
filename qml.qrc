@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Stage.qml</file>
+        <file>PointCloudCube.qml</file>
+    </qresource>
+</RCC>
